@@ -1,0 +1,8 @@
+# Surgical Purge V1
+
+Bot WhatsApp autonome utilisant Baileys avec session JSON chargé depuis variable d'environnement `SESSION_JSON`.
+
+## Installation
+
+```bash
+npm install
